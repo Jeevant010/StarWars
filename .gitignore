@@ -74,3 +74,5 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Star_Wars/Saved/
+Star_Wars/Intermediate/
+Star_Wars/Saved/
